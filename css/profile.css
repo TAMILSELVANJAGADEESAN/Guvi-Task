@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(#3b90ec,#0a447f,#3b90ec);
+    background-size: cover;
+    background-position: fixed;
+  }
+
+.container {
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.btn-primary {
+    width: 100%;
+}
